@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://playful-bienenstitch-3e248d.netlify.app/sitemap.xml
